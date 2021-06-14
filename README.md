@@ -14,6 +14,6 @@ My name is _Chukwuka Emi_. I'm a Software Engineer with years of proven experien
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=twitter-api-clone)](https://github.com/chukwuka-emi/twitter-api-clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=my-portfolio-website)](https://github.com/chukwuka-emi/my-portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=my-portfolio-site)](https://github.com/chukwuka-emi/my-portfolio-site)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukwukaemi)](https://github.com/chukwuka-emi/github-readme-stats)
