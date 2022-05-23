@@ -12,8 +12,8 @@ My name is _Chukwuka Emi_. I'm a Software Engineer with years of proven experien
 
 [![Chukwuka Emi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukwuka-emi&hide=stars,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=twitter-api-clone)](https://github.com/chukwuka-emi/twitter-api-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=sosha-api-gateway)](https://github.com/chukwuka-emi/sosha-api-gateway)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=my-portfolio-site)](https://github.com/chukwuka-emi/my-portfolio-site)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukwukaemi)](https://wakatime.com/@chukwukaemi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chukwuka-emi&repo=sosha)](https://github.com/chukwuka-emi/sosha)
