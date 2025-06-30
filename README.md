@@ -6,6 +6,6 @@ My name is _Chukwuka Emi_. I'm a Software Engineer with years of proven experien
 
 - 💬 Ask me about **Software Engineering**
 - 
-- 📫 How to reach me: Mail at _contact@chukwukaemi.com_. Call via **+2347034969842**
+- 📫 How to reach me: Mail at _contact@chukwukaemi.com_.
 
 [![Chukwuka Emi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chukwuka-emi&hide=stars,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
